@@ -1,1 +1,11 @@
+body {
+    background-image: "https://oir.mobi/uploads/posts/2021-03/1616574473_27-p-svetlo-zelenii-fon-odnotonnii-30.jpg;"
+}
+p {background-color: chartreuse;}
+a {
+    background-color: aqua;
+}
+b {
+    background-color: rgb(190, 235, 113);
+}
 
